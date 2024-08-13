@@ -4,10 +4,16 @@ The purpose of this analysis is to build a prediction model to predict whether a
 
 Dataset: Restaurant_Reviews.tsv is a dataset from Kaggle datasets which consists of 1000 reviews on a restaurant.
 
+
 To build a model to predict if review is positive or negative, following steps are performed.
 
+
 Importing Dataset
+
 Preprocessing Dataset
+
 Vectorization
+
 Training and Classification
+
 Analysis Conclusion
